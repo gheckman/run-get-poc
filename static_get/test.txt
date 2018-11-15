@@ -1,0 +1,15 @@
+----------
+Running get with i=0
+Found match for train with i=0
+train got flag=0
+----------
+Running get with i=1
+No match for train with i=1
+Found match for vehicle with i=1
+vehicle got flag=1
+----------
+Running get with i=2
+No match for train with i=2
+No match for vehicle with i=2
+FOUND NO MATCH!!
+----------
